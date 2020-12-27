@@ -10,6 +10,6 @@ If you have a request for a new feature (such as support for a particular charac
 The current release is version `0.1`, with a single style, `Regular`. This release is internal version `30`.
 
 ## Images
-![images/io-code.png]
-![images/io-glyphset.png]
-![images/io-genome.png]
+![Code Example](images/io-code.png)
+![Character Set](images/io-glyphset.png)
+![](images/io-genome.png)
